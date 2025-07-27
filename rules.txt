@@ -1,0 +1,5 @@
+All protected health information (PHI) must remain confidential and secure.
+Written consent is required before sharing patient data.
+Medical records must be stored securely and only accessible by authorised personnel.
+Data must be encrypted during transmission and at rest.
+Patients have the right to obtain a copy of their medical information.

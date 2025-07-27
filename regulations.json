@@ -1,0 +1,4 @@
+{
+  "privacy": "Under the HIPAA Privacy Rule, covered entities must protect individuals' medical records and other personal health information (PHI). This rule sets limits and conditions on the uses and disclosures of such information without patient authorization. Patients also have rights over their health information, including rights to examine and obtain a copy of their health records, and to request corrections.",
+  "security": "The HIPAA Security Rule requires appropriate administrative, physical, and technical safeguards to ensure the confidentiality, integrity, and security of electronic protected health information (ePHI). Covered entities must ensure that only authorized personnel have access to ePHI, that data is not altered or destroyed improperly, and that data is accessible to authorized users when needed."
+}
